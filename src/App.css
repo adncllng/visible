@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    margin: 3vw;
+    overflow: hidden;
+}
+.statement{
+    color: gray;
+        font-family: 'Saira Semi Condensed', sans-serif;
+        font-weight: bolder;
+font-size: 2.3vmax;
+    line-height: 5.6vmin;
+}
+.visib{
+    font-style: italic;
+}
+
